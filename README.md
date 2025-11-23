@@ -100,3 +100,7 @@ The application uses a single `Link` table with the following fields:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Deployment
+
+Deployed on Vercel: [TinyLink](https://tinylink-sahana.vercel.app) (update with actual link after deployment)
